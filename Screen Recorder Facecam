@@ -1,6 +1,6 @@
 Privacy Policy
 
-Nbow Developer built the ScreenRecorder app. 
+Nbow Developer built the Screen Recorder FACECAM app. 
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -25,10 +25,12 @@ Google Play Services
 Google Analytics for Firebase
 Firebase Crashlytics
 Log Data
-Admob 
-
 Admob
 our app can contain admob add and admob can collect required infromation.
+
+PERMISSION
+
+Foreground service used for recording videos. Media Projection api used.
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
